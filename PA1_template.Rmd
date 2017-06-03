@@ -2,7 +2,7 @@
 title: "activityMonitoring"
 author: "Joabe Leonard"
 date: "2 de junho de 2017"
-output: html_document
+output: md_document
 ---
 
 1 Code for reading in the dataset and/or processing the data
